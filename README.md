@@ -5,7 +5,7 @@
  '''
  ### Step 01-Create a conda environment for opening the repository
  '''bash
- conda create -n medibot python=3.10 -y
+ conda create -n medibot python=3.10.18 -y
  '''
 
  '''bash
@@ -18,4 +18,3 @@
  '''bash
  pip install -r requirements.txt
  '''
- 
