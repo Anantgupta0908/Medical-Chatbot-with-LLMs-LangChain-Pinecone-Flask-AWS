@@ -1,4 +1,5 @@
 # Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+## How to RUN ? 
 # Clone the repository
  '''bash
  git clone https://github.com/Anantgupta0908/Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
